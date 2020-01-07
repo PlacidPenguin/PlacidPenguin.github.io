@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Reviews
 ---
 - [Jurrasic Park](content/jurrasic_park.md)
