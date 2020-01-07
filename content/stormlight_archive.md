@@ -5,4 +5,5 @@ layout: default
   <h1>The Stormlight Archive</h1>
 -  [<span markdown="1" class="text-white">The Way of Kings</span>](stormlight_archive/way_of_kings.md)
 -  [<span markdown="1" class="text-white">Words of Radience</span>](stormlight_archive/words_of_radience.md)
+-  [<span markdown="1" class="text-white">Oathbringer</span>](stormlight_archive/oathbringer.md)
 </div>
