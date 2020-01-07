@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
+<div class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
   <h1>The Wheel of Time</h1>
 - [New Spring](wheel_of_time/new_spring.md)
 - [The Great Hunt](wheel_of_time/the_great_hunt.md)
