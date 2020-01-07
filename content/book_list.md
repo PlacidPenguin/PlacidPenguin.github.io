@@ -1,3 +1,1 @@
-- [Jurrasic Park](jurrasic_park.md)
-- [The Stormlight Archive Series](stormlight_archive.md)
-- [The Wheel of Time Series](wheel_of_time.md)
+
