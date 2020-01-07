@@ -16,7 +16,6 @@
 title: Book Review
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A resting place to get good quality trustworthy reviews of books that your family has read.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.cojm
 #twitter_username: jekyllrb
