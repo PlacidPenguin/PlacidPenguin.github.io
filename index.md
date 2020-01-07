@@ -2,6 +2,11 @@
 layout: page
 title: Reviews
 ---
-- [Jurrasic Park](content/jurrasic_park.md)
-- [The Stormlight Archive Series](content/stormlight_archive.md)
-- [The Wheel of Time series](content/wheel_of_time.md)
+<ul>
+  <li>[Jurrasic Park](content/jurrasic_park.md)
+</li>
+  <li>[The Stormlight Archive Series](content/stormlight_archive.md)
+</li>
+  <li>[The Wheel of Time series](content/wheel_of_time.md)
+</li>
+</ul>
