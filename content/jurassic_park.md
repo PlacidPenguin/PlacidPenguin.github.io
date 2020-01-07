@@ -3,5 +3,5 @@ layout: default
 ---
 <div class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
   <h1>Jurassic Park</h1>
-  Summary of your super cool book
+  Loved it. The movie is very close to the book as far as events and plot. It felt like an extended addition version of the movie. There are a few differences from the movie regarding the plot, though, but not impactful. If you liked the movie you'll love the book. Its suspensful and thrilling. I really enjoyed it because there was nothing deep or hard to grasp. It's a great book if you just want to sit down relax and be emersed in a scarey and fun world, that seems, not to far off.
 </div>
