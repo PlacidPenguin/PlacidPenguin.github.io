@@ -2,11 +2,11 @@
 layout: page
 title: Reviews
 ---
-<ul>
-  <li>[Jurrasic Park](content/jurrasic_park.md)
+<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center">[Jurrasic Park](content/jurrasic_park.md)
 </li>
-  <li>[The Stormlight Archive Series](content/stormlight_archive.md)
+  <li class="list-group-item d-flex justify-content-between align-items-center">[The Stormlight Archive Series](content/stormlight_archive.md)
 </li>
-  <li>[The Wheel of Time series](content/wheel_of_time.md)
+  <li class="list-group-item d-flex justify-content-between align-items-center">[The Wheel of Time series](content/wheel_of_time.md)
 </li>
 </ul>
