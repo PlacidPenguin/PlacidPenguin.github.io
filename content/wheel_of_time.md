@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
   <h1>The Wheel of Time</h1>
-- [New Spring](wheel_of_time/new_spring.md)
-- [The Great Hunt](wheel_of_time/the_great_hunt.md)
-- [The Dragon Reborn](wheel_of_time/the_dragon_reborn.md)
+-  [<span markdown="1" class="text-white">New Spring</span>](wheel_of_time/new_spring.md)
+-  [<span markdown="1" class="text-white">The Great Hunt</span>](wheel_of_time/the_great_hunt.md)
+-  [<span markdown="1" class="text-white">The Dragon Reborn</span>](wheel_of_time/the_dragon_reborn.md)
 </div>
 
