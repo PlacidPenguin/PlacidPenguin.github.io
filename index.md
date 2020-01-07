@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Book Reviews
+title: Reviews
 ---
+- [The Wheel of Time series](content/the_wheel_of_time/)
