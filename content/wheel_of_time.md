@@ -7,4 +7,3 @@ layout: default
 -  [<span markdown="1" class="text-white">The Great Hunt</span>](wheel_of_time/great_hunt.md)
 -  [<span markdown="1" class="text-white">The Dragon Reborn</span>](wheel_of_time/dragon_reborn.md)
 </div>
-
