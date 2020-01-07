@@ -2,6 +2,6 @@
 layout: page
 title: New Spring (Book One)
 ---
-<div class="card-text">
+<div class="card text-white bg-secondary mb-3">
 This book was very focused on world building. You end up with more questions than answers. It feels a little slow for the whole first half. A lot like LOTR: Fellowship of the Ring.
 </div>
