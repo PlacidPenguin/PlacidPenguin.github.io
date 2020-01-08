@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Hero of Ages
+title: The Hero of Ages Book three
 author: Devin
 date: Jan 8 2020
 ---
