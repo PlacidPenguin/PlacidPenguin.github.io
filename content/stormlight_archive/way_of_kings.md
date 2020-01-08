@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Way of Kings book one
+bookAuthor: Brandon Sanderson
 author: Devin
 date: Jan 8th 2020
 ---
