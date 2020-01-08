@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: page
 title: BookTitle
 author: YourName
 date: Month(abreviated) day year
 ---
-  YourAwesomeBookReview -->
+  YourAwesomeBookReview
