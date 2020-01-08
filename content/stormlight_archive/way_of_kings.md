@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Way of Kings
+title: The Way of Kings book two
 author: Devin
 date: Jan 8th 2020
 ---
