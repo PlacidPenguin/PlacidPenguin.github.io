@@ -1,13 +1,25 @@
 ---
 layout: default
 ---
-<article>
+<!-- <article>
 
   <header>
     <h1>{{ page.title | escape }}</h1>
   </header>
 
   <section>
+    {{ content }}
+  </section>
+
+</article> -->
+
+<article>
+
+  <header class="container text-center">
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
     {{ content }}
   </section>
 
