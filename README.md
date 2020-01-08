@@ -66,7 +66,9 @@ layout: default
 
 ## How to create the link to your book review
 1. Click on the [```index.md```](index.md) file in the root of the repository.
-2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/edit_btn.png) toward the top right.
+2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/edit_btn.PNG) toward the top right.
+3. Copy and paste:
+``` ```
 
 ## Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
