@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Final Empire: Book One 
+title: The Final Empire Book One 
 author: Devin 
 date: Jan 8 2020
 ---  
