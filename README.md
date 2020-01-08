@@ -28,7 +28,7 @@ date: Aug 5 2050
 ---
   This book really stood up against the test of time... 
 ```
-6. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) when your finished.
+6. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 
 ## Series
@@ -62,7 +62,7 @@ layout: default
 </div>
 ```
 10. Copy and paste ```-  [<span markdown="1" class="text-white">cool book2</span>](name_of_series/book2.md)``` and follow steps 8 - 9 for each book in the series your reviewing.
-11. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) when your finished.
+11. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 ## Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
