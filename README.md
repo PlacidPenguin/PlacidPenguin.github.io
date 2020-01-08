@@ -74,5 +74,5 @@ layout: default
 5. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 
-## Resources for styling
+# Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
