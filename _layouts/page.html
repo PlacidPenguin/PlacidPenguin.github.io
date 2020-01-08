@@ -4,14 +4,14 @@ bookAuthor:
 ---
 <article>
 
-  <header class="container text-center">
+  <header class="container shadow p-3 bg-white rounded text-center">
     <h1>{{ page.title | escape }}</h1>
     <h3>{{ page.bookAuthor}}</h3>
     <h4>{{ page.author }}</h4>
     <h5>{{ page.date }}</h5>
   </header>
 
-  <section class="container text-center shadow p-3 bg-white rounded bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
+  <section class="container text-center bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
     {{ content }}
   </section>
 
