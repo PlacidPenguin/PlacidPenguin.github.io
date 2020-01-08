@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Jurassic Park
 author: Devin
 date: today
