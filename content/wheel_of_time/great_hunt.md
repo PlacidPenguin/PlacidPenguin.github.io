@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Great Hunt book two
+bookAuthor: Jordan Peterson
 author: Devin
 date: Jan 7th 2020
 ---
