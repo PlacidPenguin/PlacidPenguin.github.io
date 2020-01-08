@@ -28,14 +28,14 @@ date: Aug 5 2050
 ---
   This book really stood up against the test of time... 
 ```
-
+6. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) when your finished.
 
 
 ## Series
 1. Navigate to the [content](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
 3. Your going to make a new folder and file, like so: Give your folder a name i.e., ```harry_potter_series``` then press the ``` / ``` (forward slash) and name your file i.e., ```harry_potter_and_the_sorcerers_stone.md```
-4. Follow steps 2 - 5 from the section [Review](#review). Then, do this step for each book in the series your reviewing.
+4. Follow steps 2 - 6 from the section [Review](#review). Then, do this step for each book in the series your reviewing.
 5. Create another file in the [content](content/) folder and name it i.e., ```harry_potter.md```.
 6. Copy and paste the following into your newly create file:
 ```
@@ -62,6 +62,7 @@ layout: default
 </div>
 ```
 10. Copy and paste ```-  [<span markdown="1" class="text-white">cool book2</span>](name_of_series/book2.md)``` and follow steps 8 - 9 for each book in the series your reviewing.
+11. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) when your finished.
 
 ## Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
