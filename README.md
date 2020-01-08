@@ -35,7 +35,7 @@ date: Aug 5 2050
 1. Navigate to the [content](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
 3. Your going to make a new folder and file, like so: Give your folder a name i.e., ```harry_potter_series``` then press the ``` / ``` (forward slash) and name your file i.e., ```harry_potter_and_the_sorcerers_stone.md```
-4. Follow steps 4 - 6 from the section [Review](#review). Then, do steps 2 - 6 from [Review](#review) for each book in the series your reviewing.
+4. Follow steps 4 - 6 from the section [How to make a book review](#how-to-make-a-book-review). Then, do steps 2 - 6 from [How to make a book review](#how-to-make-a-book-review) for each book in the series your reviewing.
 5. Create another file in the [content](content/) folder and name it i.e., ```harry_potter.md```.
 6. Copy and paste the following into your newly create file: 
 ```
@@ -67,8 +67,10 @@ layout: default
 ## How to create the link to your book review
 1. Click on the [```index.md```](index.md) file in the root of the repository.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/edit_btn.PNG) toward the top right.
-3. Copy and paste:
-``` ```
+3. Copy and paste: ```-  [<span markdown="1" class="text-white">Name of book or series</span>](content/name_of_file.md)``` right below the ``` <h1>Reviews</h1>``` portion.
+4. Change ```Name of book or series``` to the name of the book or series your reviewing i.e., *The Lost World* and change the ```name_of_file.md``` to the name of the file your created in the [How to make a book review][#how-to-make-a-book-review] section i,e., ```lost_world.md```
+5. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
+
 
 ## Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
