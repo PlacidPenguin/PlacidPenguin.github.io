@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Words of Radience book two
+bookAuthor: Brandon Sanderson
 author: Devin
 date: Jan 8th 2020
 ---
