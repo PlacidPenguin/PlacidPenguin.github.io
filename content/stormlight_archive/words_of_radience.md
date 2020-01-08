@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Words of Radience
+title: Words of Radience book two
 author: Devin
 date: Jan 8th 2020
 ---
