@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Spring (one book)
+title: New Spring (book one)
 author: Devin
 date: Jan 7th 2020
 ---
