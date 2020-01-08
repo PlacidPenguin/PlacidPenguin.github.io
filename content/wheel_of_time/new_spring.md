@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Spring book one
+bookAuthor: Jordan Peterson
 author: Devin
 date: Jan 7th 2020
 ---
