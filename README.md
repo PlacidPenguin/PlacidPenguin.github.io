@@ -18,7 +18,17 @@ date: Jan 8 2020
 ---
   YourAwesomeBookReview 
 ```
-5. Leave ```Layout: page``` untouched and fill in the rest.  
+5. Leave ```Layout: page``` untouched and fill in the rest. Which gives us:
+```
+---
+layout: page
+title: The Great Gatsby
+author: Jane Doe
+date: Aug 5 2050
+---
+  This book really stood up against the test of time... 
+```
+
 
 
 ## Series
