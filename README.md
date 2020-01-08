@@ -13,6 +13,7 @@
 ---
 layout: page
 title: Name of the book you read
+bookAuthor: Foo Bar
 author: Your name
 date: Jan 8 2020
 ---
@@ -23,6 +24,7 @@ date: Jan 8 2020
 ---
 layout: page
 title: The Great Gatsby
+bookAuthor: F. Scott Fitzgerald
 author: Jane Doe
 date: Aug 5 2050
 ---
