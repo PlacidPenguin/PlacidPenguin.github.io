@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oathbringer
+title: Oathbringer book three
 author: Devin
 date: Jan 7th 2020
 ---
