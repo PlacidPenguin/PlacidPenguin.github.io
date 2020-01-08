@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Well of Ascension book two
+bookAuthor: Brandon Sanderson
 author: Devin
 date: Jan 8 2020
 ---
