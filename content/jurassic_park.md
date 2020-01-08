@@ -1,5 +1,7 @@
 ---
 layout: default
+author: Devin
+date: today
 ---
 <div class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
   <h1>Jurassic Park</h1>
