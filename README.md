@@ -12,7 +12,7 @@
 ```
 ---
 layout: page
-title: The Great Gatsby
+title: Name of the book you read
 author: Your name
 date: Jan 8 2020
 ---
