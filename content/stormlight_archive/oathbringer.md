@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Oathbringer book three
+bookAuthor: Brandon Sanderson
 author: Devin
 date: Jan 7th 2020
 ---
