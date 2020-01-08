@@ -1,6 +1,7 @@
 ---
 layout: page
-title: The Final Empire book one 
+title: The Final Empire book one
+bookAuthor: Brandon Sanderson
 author: Devin 
 date: Jan 8 2020
 ---  
