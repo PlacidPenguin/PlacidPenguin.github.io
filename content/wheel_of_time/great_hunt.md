@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Great Hunt (book two)
+title: The Great Hunt book two
 author: Devin
 date: Jan 7th 2020
 ---
