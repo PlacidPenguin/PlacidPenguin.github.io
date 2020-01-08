@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Hero of Ages Book three
+bookAuthor: Brandon Sanderson
 author: Devin
 date: Jan 8 2020
 ---
