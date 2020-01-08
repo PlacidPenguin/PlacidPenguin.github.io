@@ -25,7 +25,7 @@ date: Jan 8 2020
 1. Naviage to the [content](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
 3. Your going to make a new folder and new file like so: Give your folder a name i.e., ```harry_potter_series``` then press the ``` / ``` (forward slash) and name your file i.e., ```harry_potter_and_the_sorcerers_stone.md```
-4. Follow steps 4 - 5 from section "Review" for all books in the series that your reviewing.
+4. Follow steps 2 - 5 from section "Review" for all books in the series that your reviewing.
 5. Create another file in the [content](content/) folder and name it i.e., ```harry_potter.md```.
 6. Copy and paste the following into your newly create file:
 ```
