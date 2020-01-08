@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
+title: Words of Radience
+author: Devin
+date: Jan 7th 2020
 ---
-<div class="container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;">
-  <h1>Words of Radience</h1>
   Summary of your super cool book
-</div>
