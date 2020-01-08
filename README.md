@@ -64,5 +64,9 @@ layout: default
 10. Copy and paste ```-  [<span markdown="1" class="text-white">cool book2</span>](name_of_series/book2.md)``` and follow steps 8 - 9 for each book in the series your reviewing.
 11. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
+## How to create the link to your book review
+1. Click on the [```index.md```](index.md) file in the root of the repository.
+2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/edit_btn.png) toward the top right.
+
 ## Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
