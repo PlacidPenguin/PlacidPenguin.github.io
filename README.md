@@ -5,7 +5,7 @@
 
 1. Navigate to the [contents](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
-3. Give your file a name i.e., if you read "The Great Gatsby" name your file ```great_gatsby.md```. Pro Tip: try to leave of leading "articles" such as, "the" or "A" in file name. Likewise, use "_" instead of spaces.
+3. Give your file a name i.e., if you read "The Great Gatsby" name your file ```great_gatsby.md```. *Pro Tip: try to leave of leading "articles" such as, "the" or "A" in file name. Likewise, use "_" instead of spaces.*
 4. Copy and paste the following into your newly created file:
 ```
 ---
