@@ -68,7 +68,7 @@ layout: default
 1. Click on the [```index.md```](index.md) file in the root of the repository.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/edit_btn.PNG) toward the top right.
 3. Copy and paste: ```-  [<span markdown="1" class="text-white">Name of book or series</span>](content/name_of_file.md)``` right below the ``` <h1>Reviews</h1>``` portion.
-4. Change ```Name of book or series``` to the name of the book or series your reviewing i.e., *The Lost World* and change the ```name_of_file.md``` to the name of the file your created in the [How to make a book review][#how-to-make-a-book-review] section i,e., ```lost_world.md```
+4. Change ```Name of book or series``` to the name of the book or series your reviewing i.e., *The Lost World* and change the ```name_of_file.md``` to the name of the file your created in the [How to make a book review](#how-to-make-a-book-review) section i,e., ```lost_world.md```
 5. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 
