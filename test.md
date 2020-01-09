@@ -3,7 +3,7 @@ layout: series
 book1: Mybook1
 
 folderName: testFolder
-fileName: mybook1
+fileName1: mybook1.md
 
-seriesName: TestSeries
+seriesName: Test Series
 ---
