@@ -8,4 +8,5 @@ layout: default
 -  [<span markdown="1" class="text-white">The Wheel of Time Series</span>](content/wheel_of_time.md)
 -  [<span markdown="1" class="text-white">The Handmaid's Tale</span>](content/handmaids_tale.md)
 -  [<span markdown="1" class="text-white">Mistborn Series</span>](content/mistborn.md)
+-  [<span markdown="1" class="text-white">Test Series</span>](test.md)
 </div>
