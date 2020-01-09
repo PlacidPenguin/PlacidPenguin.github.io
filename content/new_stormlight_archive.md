@@ -1,5 +1,7 @@
 ---
 layout: series
+seriesName: The Stormlight Archive
+
 folderName: stormlight_archive
 book1: The Way of Kings
 book2: Words of Radience
