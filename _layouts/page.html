@@ -1,6 +1,7 @@
 ---
 layout: default
 bookAuthor:
+parentalRating:
 ---
 <div class="jumbotron container text-center large shadow p-3 mb-3" style="background-color:#fffbf1; max-width: 40rem;">
 
@@ -8,6 +9,7 @@ bookAuthor:
     <h1>{{ page.title | escape }}</h1>
     <h4>{{ page.bookAuthor}}</h4>
     <h6>Reviewed by: {{ page.author }} {{ page.date }}</h6>
+    <h6>Parental Rating: {{ page.parentalRating }} </h6>
   </header>
 
   <div class="container text-center mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
