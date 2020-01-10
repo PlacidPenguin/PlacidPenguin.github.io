@@ -8,8 +8,8 @@ parentalRating:
   <header class="container text-center">
     <h1>{{ page.title | escape }}</h1>
     <h4>{{ page.bookAuthor}}</h4>
-    <p>Reviewed by: <em>{{ page.author }} {{ page.date }}</em><br/>
-       Parental Rating: <em>{{ page.parentalRating }} </em>
+    <p style="font-weight:'normal'">Reviewed by: {{ page.author }} {{ page.date }}<br/>
+       Parental Rating: {{ page.parentalRating }}
     </p>
   </header>
 
