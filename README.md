@@ -16,6 +16,7 @@ title: Name of the book you read
 bookAuthor: Foo Bar
 author: Your name
 date: Jan 8 2020
+parentalRating: PG
 ---
   YourAwesomeBookReview 
 ```
@@ -27,6 +28,7 @@ title: The Great Gatsby
 bookAuthor: F. Scott Fitzgerald
 author: Jane Doe
 date: Aug 5 2050
+parentalRating: PG
 ---
   This book really stood up against the test of time... 
 ```
