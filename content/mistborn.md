@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: series
+seriesName: The Mistborn Series
+
+folderName: mistborn_born
+book1: The Final Empire
+book2: The Well of Ascension
+book3: The Hero of Ages
+
+fileName1: final_empire.html
+fileName2: well_of_ascension.html
+fileName3: hero_of_ages.html
 ---
-<div class="jumbotron shadow large container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
-  <h1>Mistborn</h1>
--  [<span markdown="1" class="text-white">The Final Empire</span>](mistborn/final_empire.md)
--  [<span markdown="1" class="text-white">The Well of Ascension</span>](mistborn/well_of_ascension.md)
--  [<span markdown="1" class="text-white">The Hero of Ages</span>](mistborn/hero_of_ages.md)
-</div>
