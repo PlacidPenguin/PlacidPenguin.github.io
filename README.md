@@ -49,7 +49,7 @@ book1: Name
 fileName1: name 
 ---
 ```
-7. Fill in the the ```name``` portions with the name of your series, ```folderName``` (see folder name in step 3), ```book1```, ```fileName1``` (see file name in step 3). Which gives us:
+7. Fill in the the ```name``` portions with the name of your series, ```folderName``` (see folder name in step 3), ```book1``` and ```fileName1``` (see file name in step 3). Which gives us:
 ```
 ---
 layout: series
