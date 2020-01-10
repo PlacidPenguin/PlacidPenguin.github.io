@@ -59,7 +59,7 @@ book1: Harry Potter and the Sorcerer's Secret
 fileName1: harry_potter_and_the_sorcerers_secret.html
 ---
 ```
-8. For additional books in the series follow [How to make a book review](#how-to-make-a-book-review) and then, add the tags ```bookN``` and ```fileNameN``` where ```N``` is the number in the series i.e., ```book2: The Second Book``` and ```fileName2: the_second_book.html```
+8. For additional books in the series add the tags ```bookN``` and ```fileNameN``` where ```N``` is the number in the series i.e., ```book2: The Second Book``` and ```fileName2: the_second_book.html```
 9. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 # How to create the link to your book review
