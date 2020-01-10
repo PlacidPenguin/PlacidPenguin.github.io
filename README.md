@@ -5,7 +5,7 @@
 
 1. Navigate to the [content](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
-3. Give your file a name i.e., if you read "The Great Gatsby" name your file ```great_gatsby.md```.  
+3. Give your file a name i.e., if you read "The Great Gatsby" name your file ```great_gatsby.html```.  
    *Pro Tip: try to leave of leading "articles" such as, "The" or "A" in file name. Likewise, use "_" instead of spaces and use     
    lower case.*
 4. Copy and paste the following into your newly created file:
@@ -36,35 +36,31 @@ date: Aug 5 2050
 # How to make a book series review
 1. Navigate to the [content](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
-3. Your going to make a new folder and file, like so: Give your folder a name i.e., ```harry_potter_series``` then press the ``` / ``` (forward slash) and name your file i.e., ```harry_potter_and_the_sorcerers_stone.md```
+3. Your going to make a new folder and file, like so: Give your folder a name i.e., ```harry_potter_series``` then press the ``` / ``` (forward slash) and name your file i.e., ```harry_potter_and_the_sorcerers_stone.html```
 4. Follow steps 4 - 6 from the section [How to make a book review](#how-to-make-a-book-review). Then, do steps 2 - 6 from [How to make a book review](#how-to-make-a-book-review) for each book in the series your reviewing.
 5. Create another file in the [content](content/) folder and name it i.e., ```harry_potter.md```.
 6. Copy and paste the following into your newly create file: 
 ```
 ---
-layout: default
+layout: series
+seriesName: Name
+folderName: name
+book1: Name
+fileName1: name 
 ---
-<div class="jumbotron shadow large container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
-  <h1>Name of Series</h1>
--  [<span markdown="1" class="text-white">cool book1</span>](name_of_series/book1.md)
--  [<span markdown="1" class="text-white">cool book2</span>](name_of_series/book2.md)
-</div>
 ```
-7. Change the contents enclosed by the ```<h1> </h1>``` in the ```<h1>Name of Series</h1>``` line to the name of your series.
-8. Chanage contents in the part ```[<span markdown="1" class="text-white">cool book1</span>]``` from "cool book1" to the name of your book.
-9. Change the contents in the part ```(name_of_series/book1.md)``` from ```name_of_series``` to the name of the folder you created in step 3 i.e., ```harry_potter_series``` and change ```book1.md``` to the name of the file your created in step 3 as well i.e., ```harry_potter_and_the_sorcerers_stone.md```. Which gives us:
+7. Fill in the the ```name``` portions with the name of your series, ```folderName``` (see folder name in step 3), ```book1```, ```fileName1``` (see file name in step 3). Which gives us:
 ```
 ---
-layout: default
+layout: series
+seriesName: The Harry Potter Series
+folderName: harry_potter_series
+book1: Harry Potter and the Sorcerer's Secret
+fileName1: harry_potter_and_the_sorcerers_secret.html
 ---
-<div class="jumbotron shadow large container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
-  <h1>The Harry Potter Series</h1>
--  [<span markdown="1" class="text-white">Harry Potter and the sorcerers's stone</span>](harry_potter_series/harry_potter_and_the_sorcerers_stone.md)
--  [<span markdown="1" class="text-white">Second Harry Potter Book</span>](harry_potter_series/second_harry_potter.md)
-</div>
 ```
-10. Copy and paste ```-  [<span markdown="1" class="text-white">cool book2</span>](name_of_series/book2.md)``` and follow steps 8 - 9 for each book in the series your reviewing.
-11. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
+8. For additional books in the series follow [How to make a book review](#how-to-make-a-book-review) and then, add the tags ```bookN``` and ```fileNameN``` where ```N``` is the number in the series i.e., ```book2: The Second Book``` and ```fileName2: the_second_book.html```
+9. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 # How to create the link to your book review
 1. Click on the [```index.md```](index.md) file in the root of the repository.
