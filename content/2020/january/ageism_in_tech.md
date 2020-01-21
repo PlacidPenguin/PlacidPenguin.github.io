@@ -1,3 +1,9 @@
+---
+layout: page
+title: Ageism In Tech.
+author: Devin
+date: Jan 21 2020
+---
 Ageism in tech. Quite the subject for the first rant, but here goes. I’m getting a little older now, naturally this has started to concern me a little. Not that I think I’m affected by this yet. However, I’ve noticed a few things.
 
 Caveat 1: my sample size is meniscal. Like seriously this is purely an opinion piece.
