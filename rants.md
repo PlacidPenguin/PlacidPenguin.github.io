@@ -6,4 +6,3 @@ book1: 2020 Rants
 fileName1: 2020.md
 title: Rants
 ---
-January test
