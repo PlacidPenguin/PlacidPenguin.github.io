@@ -14,8 +14,7 @@ before too much carnage ensues. This book is highly technical in some aspects,
 more so than Jurassic Park. You may actually learn something about biology. This book
 almost feels like a short lecture on micro-biology. That aside, the book is very
 intriguing. I couldn’t put it down.
-</br>
-</br>
+
   The Andromeda Strain is full of theoretic biology, some
 existential philosophy, action, and some mystery. It leaves you feeling like
 perhaps it would be fun to learn more about micro-organisms and diseases.
