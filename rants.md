@@ -1,7 +1,8 @@
 ---
 layout: series
-author: Devin
-date: Jan 21 2020
-title: Rants
+seriesName: Rants
+folderName: 2020
+book1: Jan
+fileName1: jan.md 
 ---
-January
+January test
