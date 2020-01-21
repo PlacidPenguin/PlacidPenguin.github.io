@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: series
 author: Devin
 date: Jan 21 2020
 title: Rants
 ---
-This is a test
+January
