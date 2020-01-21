@@ -5,7 +5,7 @@
 
 1. Navigate to the [content](content/) folder.
 2. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/create_new_file_btn.PNG) button towards the top right.
-3. Give your file a name i.e., if you read "The Great Gatsby" name your file ```great_gatsby.html```.  
+3. Give your file a name i.e., if you read "The Great Gatsby" name your file ```great_gatsby.md```.  
    *Pro Tip: try to leave of leading "articles" such as, "The" or "A" in file name. Likewise, use "_" instead of spaces and use     
    lower case.*
 4. Copy and paste the following into your newly created file:
@@ -34,6 +34,7 @@ parentalRating: PG
 ```
 6. Scroll to the bottom of the page and click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
+7. Upate the [index.md file](index.md)
 
 # How to make a book series review
 1. Navigate to the [content](content/) folder.
