@@ -1,5 +1,7 @@
 ---
 layout: default
+description:
+
 book1:
 book2:
 book3:
@@ -37,7 +39,7 @@ seriesName:
 ---
 <div class="jumbotron shadow large container text-center card text-white bg-secondary mb-3" style="max-width: 40rem; font-weight: normal;" markdown="1">
   <h1>{{page.seriesName}}</h1>
-  
+  <h4>{{page.description}}</4>
   <a href="/content/{{page.folderName}}/{{page.fileName1}}" class="text-white">{{page.book1}}</a>
   <a href="/content/{{page.folderName}}/{{page.fileName2}}" class="text-white">{{page.book2}}</a>
   <a href="/content/{{page.folderName}}/{{page.fileName3}}" class="text-white">{{page.book3}}</a>
