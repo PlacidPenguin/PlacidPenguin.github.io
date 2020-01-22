@@ -14,7 +14,7 @@
         <input id="searchString" name="searchString"
                 placeholder="Be a Better Developer, etc." type="text">
         <input id="searchButton" name="googleSearchName" type="submit" value="Search">
-    </form>
+    </form></div>
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
