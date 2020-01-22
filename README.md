@@ -76,7 +76,7 @@ fileName1: harry_potter_and_the_sorcerers_secret.html
 
 # How to make a new Rant
 1. Navigate down to the year and month that you want from the [content](content/) folder.
-2. Create a new file and name it withe the ```.md``` extension.
+2. Create a new file and name it with the ```.md``` extension.
 3. Copy and paste the follow:
 ```
 ---
@@ -86,7 +86,7 @@ author: Devin
 date: Jan 22 2020
 ---
 ```
-4. Make sure to create the Link in the month corresponding ```.html``` file in the year folder.
+4. Make sure to create the Link to this file in the coresponding month ```.html``` file in the year folder.
 5. Edit the ```title:```,```author:``` and ```date:``` values according to your wishes.
 6. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
