@@ -9,16 +9,16 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        {%- for path in page_paths -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
-          <li class="nav-item">
-            <div id="search">
+                    <div id="search">
     <form role="search" method="get" action="{{ site.baseurl }}//search/">
         <input id="searchString" name="searchString"
                 placeholder="Be a Better Developer, etc." type="text">
         <input id="searchButton" name="googleSearchName" type="submit" value="Search">
     </form>
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          <li class="nav-item">
             <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.contributors | escape }}</a>
             <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.about | escape }}</a>
