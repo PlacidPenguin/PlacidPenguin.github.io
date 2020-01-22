@@ -75,7 +75,7 @@ fileName1: harry_potter_and_the_sorcerers_secret.html
 5. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 # How to make a new Rant
-1. Navigate down to the year and month that you want.
+1. Navigate down to the year and month that you want from the [content](content/) folder.
 2. Create a new file and name it withe the ```.md``` extension.
 3. Copy and paste the follow:
 ```
@@ -89,9 +89,10 @@ date: Jan 22 2020
 4. Make sure to create the Link in the month corresponding ```.html``` file in the year folder.
 
 ### How to make a new month
-1. Navigate down to the directory with the year your want.
+1. Navigate down to the directory with the year your want for the [content](content/) folder
 2. Create a new file and name it month you want with the ```.html``` extension.
 3. Copy and paste the follow:
+```
 ---
 layout: series
 seriesName: New Mouth
@@ -101,6 +102,6 @@ book1: Title of Rant
 
 fileName1: title_of_rant.html
 ---
-
+```
 # Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
