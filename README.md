@@ -111,11 +111,26 @@ fileName1: title_of_rant.html
 7. Click te Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 ### How to make a new year
-1. Edit the [rants.md](rants.md) file by adding a new link to the new year, with the follow:
+1. Edit the [rants.md](rants.md) file by adding a new link to the new year, with the following:
 ```
 book2: 2021
 fileName2: 2021.html
 ```
 2. Make sure the ```2021``` and ```2021.html``` values are changed to the year your want i.e., ```book2: 2040``` and ```fileName2: 2040.html```
+3. Make a new file with the year you just used i.e., ```2040``` in the (content)[content/] folder and name it ```year.html``` i.e., ```2040.html```.
+4. Edit the new file by adding the following:
+```
+---
+layout: series
+seriesName: Year
+folderName: *see the note below*
+
+book1: month
+
+fileName1: january.html
+---
+```
+5. Note: In order to make a new folder you must make a new file and create the folder you want when you make the new file. It's weird but its just how github.com works.
+
 # Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
