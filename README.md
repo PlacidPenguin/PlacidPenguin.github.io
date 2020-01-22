@@ -78,7 +78,7 @@ fileName1: harry_potter_and_the_sorcerers_secret.html
 1. Navigate down to the year and month that you want from the [content](content/) folder.
  ***Note: if you're making a rant for a month that doesn't exist yet. You will create the folder for the month when you make the new file. i.e., follow step 2 below and then name your file ```/newMonth/fileName.md``` for example, ```/may/government_employees_are_lazy.md```***
 2. Create a new file and name it with the ```.md``` extension.
-3. Copy and paste the follow:
+3. Copy and paste, into the new file, the following:
 ```
 ---
 layout: page
@@ -94,7 +94,7 @@ date: Jan 22 2020
 ### How to make a new month
 1. Navigate down to the year you want from the [content](content/) folder
 2. Create a new file and name it the month you want with the ```.html``` extension.
-3. Copy and paste the following:
+3. Copy and paste, into the new file, the following:
 ```
 ---
 layout: series
@@ -119,7 +119,7 @@ fileName2: 2021.html
 ```
 2. Make sure the ```2021``` and ```2021.html``` values are changed to the year your want i.e., ```book2: 2040``` and ```fileName2: 2040.html```
 3. Make a new file with the year you just used i.e., ```2040``` in the (content)[content/] folder and name it ```year.html``` i.e., ```2040.html```.
-4. Edit the new file by adding the following:
+4. Copy and paste, into the new file, the following:
 ```
 ---
 layout: series
