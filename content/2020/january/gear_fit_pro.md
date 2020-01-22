@@ -17,4 +17,4 @@ I love that the newest version of Android gives you even finer controls for priv
 
 I like to only let most apps on my phone utilize location services only when I’m using the app. I see no reason the Samsung Health app needs to ping my location when I’m not using the app. I know some people would love it to do so for convenience. Regardless, when an update for my watch is available if I don’t allow the phone app to have permission to my location all the time, it crashes by closing immediately and then proceeds to not update my watch.
 
-If this is a new trend for Samsung then perhaps it's time to start rethinking my phone. Hopefully, the [Linux Phone](https://www.zdnet.com/article/this-linux-smartphone-is-now-shipping-for-150/) keeps making solid progress. Thanks Samsung for sucking.
+If this is a new trend for Samsung then perhaps it's time to start rethinking my phone. Hopefully, the [Linux Phone](https://www.zdnet.com/article/this-linux-smartphone-is-now-shipping-for-150/){:target="_blank"} keeps making solid progress. Thanks Samsung for sucking.
