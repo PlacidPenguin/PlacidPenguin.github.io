@@ -87,10 +87,12 @@ date: Jan 22 2020
 ---
 ```
 4. Make sure to create the Link in the month corresponding ```.html``` file in the year folder.
+5. Edit the ```title:```,```author:``` and ```date:``` values according to your wishes.
+6. Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 ### How to make a new month
-1. Navigate down to the directory with the year your want for the [content](content/) folder
-2. Create a new file and name it month you want with the ```.html``` extension.
+1. Navigate down to the year you want from the [content](content/) folder
+2. Create a new file and name it the month you want with the ```.html``` extension.
 3. Copy and paste the follow:
 ```
 ---
@@ -103,5 +105,9 @@ book1: Title of Rant
 fileName1: title_of_rant.html
 ---
 ```
+4. Edit the ```folderName: year/month``` to the name of the month folder for the new rants i.e., it the year is 2020 then, ```folderName: 2020/August```
+5. Edit the ```book1: Title of Rant``` to the name of the rant i.e., ```book1: Drivers in Silverdale/Bremerton```
+6. Edit the ```fileName1: title_of_rant.html``` to the name of the file for your rant i.e., ```fileName1: stupid_bremerton_drivers.html```
+7. Click te Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 # Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
