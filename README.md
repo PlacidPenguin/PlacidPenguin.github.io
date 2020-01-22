@@ -94,7 +94,7 @@ date: Jan 22 2020
 ### How to make a new month
 1. Navigate down to the year you want from the [content](content/) folder
 2. Create a new file and name it the month you want with the ```.html``` extension.
-3. Copy and paste the follow:
+3. Copy and paste the following:
 ```
 ---
 layout: series
