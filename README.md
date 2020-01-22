@@ -109,14 +109,14 @@ fileName1: title_of_rant.html
 4. Edit the ```folderName: year/month``` to the name of the month folder for the new rants i.e., if it's the year is 2020 then, ```folderName: 2020/August```
 5. Edit the ```book1: Title of Rant``` to the name of the rant i.e., ```book1: Drivers in Silverdale/Bremerton```
 6. Edit the ```fileName1: title_of_rant.html``` to the name of the file for your rant i.e., ```fileName1: stupid_bremerton_drivers.html```
-7. Now, goto back to the [content](content/) folder and edit the coresponding ```year.hmtl``` to include the new month by adding, to the ```year.html``` file, the following: 
+7. Now, goto back to the [content](content/) folder and edit the coresponding ```year.hmtl``` file to include the new month by adding, to the ```year.html``` file, the following: 
 ```
 book3: NewMonth
 
 fileName3: new_month.html
 ```
-8. Fill in the ```book3:``` and ```fileName3``` with the coresponding month you just made. ***Make sure to increment the number part of the ```book3:``` tag i.e,. if there is already a ```book3:``` and ```fileName3:``` then make another like so ```book4:``` and ```fileName4:``` 
-. Click te Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
+8. Fill in the ```book3:``` and ```fileName3``` with the coresponding month you just made. ***Make sure to increment the number part of the ```book3:``` tag i.e,. if there is already a ```book3:``` and ```fileName3:``` then make another like so ```book4:``` and ```fileName4:```***
+9. Click te Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 ### How to make a new year
 1. Edit the [rants.md](rants.md) file by adding a new link to the new year, with the following:
