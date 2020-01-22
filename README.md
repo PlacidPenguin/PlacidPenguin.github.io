@@ -76,6 +76,7 @@ fileName1: harry_potter_and_the_sorcerers_secret.html
 
 # How to make a new Rant
 1. Navigate down to the year and month that you want from the [content](content/) folder.
+ ***Note: if your making a rant for a month that doesn't exist yet. You will create the folder for the month when you make the new file. i.e., follow step 2 below and then name your file ```/newMonth/fileName.md``` for example, ```/may/government_employees_are_lazy.md```
 2. Create a new file and name it with the ```.md``` extension.
 3. Copy and paste the follow:
 ```
