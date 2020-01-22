@@ -118,7 +118,7 @@ book2: 2021
 fileName2: 2021.html
 ```
 2. Make sure the ```2021``` and ```2021.html``` values are changed to the year your want i.e., ```book2: 2040``` and ```fileName2: 2040.html```
-3. Make a new file with the year you just used i.e., ```2040``` in the (content)[content/] folder and name it ```year.html``` i.e., ```2040.html```.
+3. Make a new file with the year you just used i.e., ```2040``` in the [content](content/) folder and name it ```year.html``` i.e., ```2040.html```.
 4. Copy and paste, into the new file, the following:
 ```
 ---
@@ -131,7 +131,7 @@ book1: month
 fileName1: january.html
 ---
 ```
-5. Note: In order to make a new folder you must make a new file and create the folder you want when you make the new file. It's weird but its just how github.com works.
+***Note: In order to make a new folder you must make a new file and create the folder you want when you make the new file. It's weird but its just how github.com works. See the note in [step 1 of: How to make a new Rant](#how-to-make-a-new-rant)***
 
 # Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
