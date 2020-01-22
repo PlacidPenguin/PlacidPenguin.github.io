@@ -10,4 +10,5 @@ layout: default
 - [<span markdown="1" class="text-white">The Handmaid's Tale</span>](content/handmaids_tale.html)
 - [<span markdown="1" class="text-white">Mistborn Series</span>](content/mistborn.html)
 - [<span markdown="1" class="text-white">Andromeda Strain</span>](content/andromeda_strain.html)
+- [<span markdown="1" class="text-white">Ring World</span>](content/ring_world.html)
 </div>
