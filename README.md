@@ -111,6 +111,11 @@ fileName1: title_of_rant.html
 7. Click te Click the ![](https://github.com/PlacidPenguin/PlacidPenguin.github.io/blob/master/resources/commit_btn.PNG) button when your finished.
 
 ### How to make a new year
-1. Edit the [rants.md](rants.md) file by adding a new link to the new year.
+1. Edit the [rants.md](rants.md) file by adding a new link to the new year, with the follow:
+```
+book2: 2021
+fileName2: 2021.html
+```
+2. Make sure the ```2021``` and ```2021.html``` values are changed to the year your want i.e., ```book2: 2040``` and ```fileName2: 2040.html```
 # Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
