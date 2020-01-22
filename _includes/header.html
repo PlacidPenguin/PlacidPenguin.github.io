@@ -9,12 +9,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-                    <div id="search">
-    <form role="search" method="get" action="{{ site.baseurl }}//search/">
-        <input id="searchString" name="searchString"
-                placeholder="Be a Better Developer, etc." type="text">
-        <input id="searchButton" name="googleSearchName" type="submit" value="Search">
-    </form></div>
+        <div id="search">
+          <form role="search" method="get" action="{{ site.baseurl }}//search/">
+            <input id="searchString" name="searchString" placeholder="Be a Better Developer, etc." type="text">
+            <input id="searchButton" name="googleSearchName" type="submit" value="Search">
+          </form>
+        </div>
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
