@@ -2,12 +2,16 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
-
+</div>
   <body>
-
+<div id="search">
+    <form role="search" method="get" action="{{ site.baseurl }}//search/">
+        <input id="searchString" name="searchString"
+                placeholder="Be a Better Developer, etc." type="text">
+        <input id="searchButton" name="googleSearchName" type="submit" value="Search">
+    </form>
     {%- include header.html -%}
-      <script async src="https://cse.google.com/cse.js?cx=012955325730725765879:gr7jcw5xdso"></script>
-<div class="gcse-search"></div>
+
     <div class="py-5">
       <div class="container page-content">
           {{ content }}
