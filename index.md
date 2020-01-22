@@ -12,6 +12,7 @@ layout: default
 - [<span markdown="1" class="text-white">Andromeda Strain</span>](content/andromeda_strain.html)
 - [<span markdown="1" class="text-white">Sphere</span>](content/sphere.html)
 - [<span markdown="1" class="text-white">Timeline</span>](content/timeline.html)
+- [<span markdown="1" class="text-white">The Martian</span>](content/martian.html)
 - [<span markdown="1" class="text-white">Ring World</span>](content/ring_world.html)
 - [<span markdown="1" class="text-white">The Outsider</span>](content/outsider.html)
 </div>
