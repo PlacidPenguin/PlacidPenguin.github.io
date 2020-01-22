@@ -88,5 +88,19 @@ date: Jan 22 2020
 ```
 4. Make sure to create the Link in the month corresponding ```.html``` file in the year folder.
 
+### How to make a new month
+1. Navigate down to the directory with the year your want.
+2. Create a new file and name it month you want with the ```.html``` extension.
+3. Copy and paste the follow:
+---
+layout: series
+seriesName: New Mouth
+folderName: year/month
+
+book1: Title of Rant
+
+fileName1: title_of_rant.html
+---
+
 # Resources for styling
 [Bootswatch](https://bootswatch.com/sketchy/)
