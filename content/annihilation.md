@@ -6,9 +6,9 @@ author: Devin
 date: Jan 23 2020
 parentalRating: R (lots of swearing and some sex)
 ---
-Perhaps, I didn’t get it. Annihilation is confusing at best. I didn’t like this book. I would not recommend it to anyone. Perhaps, if you’re high this book is awesome. The descriptions of events are so abstract and obscure that I really had a hard to figuring out what was happening.
+Perhaps, I didn’t get it. Annihilation is confusing at best. I didn’t like this book. I would not recommend it to anyone. Perhaps, if you’re high this book is awesome. The descriptions of events are so abstract and obscure that I really had a hard time figuring out what was happening.
 
-If the book is supposed to be extremely confusing and very slow then it definitely succeeded. This book leaves you will only questions. Don’t expect to get many answers later on either. The second book doesn’t do much better.
+If the book is supposed to be extremely confusing and very slow then it definitely succeeded. This book leaves you will only questions. Don’t expect to get many answers later on either. The second book doesn’t do much better. I wouldn't say it was a poorly writen book. I feel like it's misrepresented. If you're going to read it, know that it's a slow building, mystery with no resolution. Certainly not an action suspense sci-fi. I has aspects of the latter, however don't read it if that's what your looking for.
 
 I recommend watching the movie. Natalie Portman has one of the most badass scenes every. Unloading a magazine with a fully automatic assault rifle in slow motion into a strange creature, is one of the coolest scenes in Hollywood. The movie is much better. It vaguely follow the book, for the better. It basically has a similar outcome but with much more action, and way more explanations.
 
