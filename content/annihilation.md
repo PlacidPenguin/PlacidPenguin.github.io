@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Name of the book you read
-bookAuthor: Foo Bar
-author: Your name
-date: Jan 8 2020
+title: Annihilation
+bookAuthor: Jeff VanderMeer
+author: Devin
+date: Jan 23 2020
 parentalRating: R (lots of swearing and some sex)
 ---
 Perhaps, I didn’t get it. Annihilation is confusing at best. I didn’t like this book. I would not recommend it to anyone. Perhaps, if you’re high this book is awesome. The descriptions of events are so abstract and obscure that I really had a hard to figuring out what was happening.
