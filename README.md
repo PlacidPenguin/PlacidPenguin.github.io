@@ -124,7 +124,7 @@ fileName3: new_month.html
 book2: 2021
 fileName2: 2021.html
 ```
-2. Make sure the ```2021``` and ```2021.html``` values are changed to the year your want i.e., ```book2: 2040``` and ```fileName2: 2040.html```
+2. Make sure the ```2021``` and ```2021.html``` values are changed to the year you want i.e., ```book2: 2040``` and ```fileName2: 2040.html```
 3. Make a new file with the year you just used i.e., ```2040``` in the [content](content/) folder and name it ```year.html``` i.e., ```2040.html```.
 4. Copy and paste, into the new file, the following:
 ```
