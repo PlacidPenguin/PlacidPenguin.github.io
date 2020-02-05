@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Name of the book you read
-bookAuthor: Foo Bar
-author: Your name
-date: Jan 8 2020
-parentalRating: PG
+title: Children of Time
+bookAuthor: Adrian Tchaikovsky
+author: Devin LaCrosse
+date: Feb 5 2020
+parentalRating: PG-13
 ---
 Wow! Children of Time is truly amazing. I’d describe this as an almost post-apocalyptic space survival with a bit of thriller mixed in. Children of Time relies on a fresh set of ideas to build the truly amazing plot. The characters have some depth, predictability and are true to themselves. One thing I can’t stand in a book/movie is when characters suddenly make a decision that seems obtuse in order to further the plot. Children of Time overcomes poor plot planning and rote sci-fi tropes, that other sci-fi books depend on, through fresh new ideas.
 
