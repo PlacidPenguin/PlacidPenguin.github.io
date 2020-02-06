@@ -4,7 +4,7 @@ title: Search
 permalink: /search/
 sitemap: false
 ---
-<div id="home-search" class="gcse-search">
+<div id="home-search" class="gcse-search" style="border-radius:10">
     <script>
         (function() {
             var cx = '012955325730725765879:ypx3plxhog2';
