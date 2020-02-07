@@ -17,6 +17,6 @@ layout: default
  [<span markdown="1" class="text-white">Annihilation</span>](content/annihilation.html)
  [<span markdown="1" class="text-white">Ring World</span>](content/ring_world.html)
  [<span markdown="1" class="text-white">The Outsider</span>](content/outsider.html)
- [<span markdown="1" class="text-white">Children of Time</span>](content/children_of_time.html)
+ [<span markdown="1" class="text-white">Children of Time Series</span>](content/children_of_time.html)
 
 </div>
