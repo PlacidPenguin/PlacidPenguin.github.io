@@ -1,1 +1,11 @@
+---
+layout: series
+seriesName: Children of Time
+folderName: children_of_time
 
+book1: Children of Time
+book2: Children of Ruin
+
+fileName1: children_of_time.md
+fileName2: children_of_ruin.md
+---
