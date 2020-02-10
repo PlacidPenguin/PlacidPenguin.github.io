@@ -14,7 +14,7 @@ layout: default
 [<span markdown="1" class="text-white">Timeline</span>](content/timeline.html)  
 [<span markdown="1" class="text-white">The Martian</span>](content/martian.html)  
 [<span markdown="1" class="text-white">Congo</span>](content/congo.html)  
-[<span markdown="1" class="text-white">Annihilation</span>](content/annihilation.html)  
+[<span markdown="1" class="text-white">The Southern Reach Series</span>](content/southern_reach.html)  
 [<span markdown="1" class="text-white">Ring World</span>](content/ring_world.html)  
 [<span markdown="1" class="text-white">The Outsider</span>](content/outsider.html)  
 [<span markdown="1" class="text-white">Children of Time Series</span>](content/children_of_time.html)
