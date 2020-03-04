@@ -2,8 +2,8 @@
 layout: page
 title: If You Tell
 bookAuthor: Greg Olson
-author: Kelli
-date: Mar 2 2020
+author: Kelli,
+date: March 2 2020
 parentalRating: R (violence and torture)
 ---
   The retelling of this true story was chilling and fascinating. The author goes into vivid detail of years of abuse suffered by Shelley Notick's (the main character, abuser and murderer) children, husband, and friends using direct quotes from the survivors. While it was very well written and eye opening, it was definitely a heavy read. Throughout the book I kept thinking "this lady couldn't possibly get any more evil" but she continued to get worse. 
